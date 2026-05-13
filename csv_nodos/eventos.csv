@@ -1,0 +1,18 @@
+﻿id,nombre,fecha_inicio,fecha_fin,tipo,tematica,sold_out
+E1,Feria de las Flores,2025-08-01,2025-08-10,Festival,Naturaleza,false
+E2,Festival de Cine de Bogotá,2025-10-15,2025-10-25,Festival,Arte,false
+E3,Carnaval de Barranquilla,2026-02-28,2026-03-04,Festival,Cultura,true
+E4,Festival de Jazz de Bogotá,2025-09-05,2025-09-10,Festival,Música,false
+E5,Feria de Cali,2025-12-25,2026-01-02,Feria,Música,false
+E6,Festival Iberoamericano de Teatro,2026-03-20,2026-04-05,Festival,Arte,false
+E7,Feria del Libro Bogotá,2025-04-23,2025-05-06,Feria,Cultura,false
+E8,Festival Estéreo Picnic,2026-03-27,2026-03-30,Festival,Música,true
+E9,Festival de la Leyenda Vallenata,2025-04-28,2025-05-03,Festival,Música,false
+E10,Feria Artesanal de Bogotá,2025-11-01,2025-11-15,Feria,Arte,false
+E11,Festival Petronio Álvarez,2025-08-20,2025-08-25,Festival,Cultura,false
+E12,Festival de Verano Bogotá,2025-07-20,2025-07-28,Festival,Deporte,false
+E13,Expo Naturaleza Medellín,2025-09-15,2025-09-20,Feria,Naturaleza,false
+E14,Festival Gastronómico Cartagena,2025-10-01,2025-10-05,Festival,Gourmet,false
+E15,Maratón de Bogotá,2025-07-27,2025-07-27,Festival,Deporte,false
+E16,Festival de Luces Medellín,2025-12-07,2025-12-15,Festival,Arte,false
+E17,Feria Agro Villavicencio,2025-06-15,2025-06-20,Feria,Naturaleza,false
