@@ -1,0 +1,19 @@
+﻿id,nombre,estrellas,precio_noche,tipo,pet_friendly
+A1,Hotel Casa Medina,5,450000,Hotel,false
+A2,Hostal Alegría,2,65000,Hostal,true
+A3,Hotel Dann Carlton,5,380000,Hotel,false
+A4,Hostal El Viajero,2,55000,Hostal,true
+A5,Hotel Estelar,4,280000,Hotel,true
+A6,Hotel Capilla del Mar,4,320000,Hotel,false
+A7,Hostal La Candelaria,2,70000,Hostal,false
+A8,Hotel GHL,4,260000,Hotel,false
+A9,Hotel Cartagena Plaza,5,420000,Hotel,false
+A10,Hostal Mamallena,2,60000,Hostal,true
+A11,Hotel NH Collection,5,390000,Hotel,false
+A12,Hostal Vagabond,2,58000,Hostal,true
+A13,Hotel Movich,4,270000,Hotel,true
+A14,Hotel Abadía Colonial,3,190000,Hotel,false
+A15,Hostal Palmetto,2,52000,Hostal,true
+A16,Hotel Sofitel,5,480000,Hotel,false
+A17,Hostal Casa Republica,3,95000,Hostal,true
+A18,Hotel Intercontinental,5,410000,Hotel,false
