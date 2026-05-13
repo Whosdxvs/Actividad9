@@ -1,0 +1,16 @@
+﻿id,nombre,clima_dominante,altitud,gentilicio
+C1,Bogotá,Frío,2600,Bogotano
+C2,Medellín,Templado,1495,Paisa
+C3,Cali,Cálido,1000,Caleño
+C4,Cartagena,Tropical,2,Cartagenero
+C5,Barranquilla,Tropical,98,Barranquillero
+C6,Santa Marta,Tropical,6,Samario
+C7,Bucaramanga,Cálido,959,Bumangués
+C8,Pereira,Templado,1411,Pereirano
+C9,Manizales,Frío,2153,Manizalita
+C10,Popayán,Frío,1738,Popayanese
+C11,Pasto,Muy Frío,2527,Pastuso
+C12,Ibagué,Templado,1285,Ibaguereño
+C13,Villavicencio,Cálido,467,Villavicense
+C14,Armenia,Templado,1483,Armenio
+C15,Cúcuta,Muy Cálido,320,Cucuteño
